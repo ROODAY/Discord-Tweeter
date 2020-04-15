@@ -1,0 +1,23 @@
+{
+  "name": "discord-tweeter",
+  "version": "1.0.0",
+  "description": "Post Tweets from Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROODAY/Discord-Tweeter.git"
+  },
+  "author": "Rudhra Raveendran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ROODAY/Discord-Tweeter/issues"
+  },
+  "homepage": "https://github.com/ROODAY/Discord-Tweeter#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
