@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/ROODAY/Discord-Tweeter/issues"
   },
-  "homepage": "https://github.com/ROODAY/Discord-Tweeter#readme",
+  "homepage": "https://rooday.com/Discord-Tweeter",
   "dependencies": {
     "discord.js": "^12.1.1",
     "dotenv": "^8.2.0",
